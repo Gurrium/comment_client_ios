@@ -1,0 +1,6 @@
+framework module Pods_comment_client_ios {
+  umbrella header "Pods-comment_client_ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
